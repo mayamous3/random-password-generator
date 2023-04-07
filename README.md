@@ -1,10 +1,12 @@
 # random-password-generator
 
 ## Description
-
+Password generator prompts users for criteria - password length, upper case, lower case, numbers, and special characters. Based on this criteria, a random password is generated
 
 ## Accomplishments
-
+-> Concatenated arrays of values to meet conditions.
+-> Included Prompt for password length.
+-> Use confirmations to pass boolean true/false values to function.
 
 ## Acceptance Criteria
 ```
