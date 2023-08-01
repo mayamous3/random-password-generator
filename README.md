@@ -3,6 +3,8 @@
 ## Description
 Password generator prompts users for criteria - password length, upper case, lower case, numbers, and special characters. Based on this criteria, a random password is generated
 
+Deployed Link: https://mayamous3.github.io/random-password-generator/
+
 ## Preview
 ![preview of password generator](./assets/images/passwordgeneratorpreview.png)
 
