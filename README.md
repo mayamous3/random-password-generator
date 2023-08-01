@@ -3,6 +3,9 @@
 ## Description
 Password generator prompts users for criteria - password length, upper case, lower case, numbers, and special characters. Based on this criteria, a random password is generated
 
+## Preview
+![preview of password generator](./assets/images/passwordgeneratorpreview.png)
+
 ## Accomplishments
 -> Concatenated arrays of values to meet conditions.
 -> Included Prompt for password length.
@@ -26,3 +29,9 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+
+## Author
+
+Please visit my portfolio site to learn more about me!
+https://mayamous3.github.io/amanda-wow-portfolio/
+
